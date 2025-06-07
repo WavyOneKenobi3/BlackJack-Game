@@ -1,7 +1,6 @@
 import random
 
-# Deck of cards
-deck_of_cards = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+
 
 # Deal a random card
 def deal():
